@@ -10,7 +10,7 @@ You will received an email with the subject "Welcome to the Contractor Managemen
 
 Then click on "submit invoice" 
 
-Month should be "4" and Year should be "2019". 
+Month should be <MONTH> and Year should be <YEAR>. 
 
 "Contractor name"=[Full Name]
 "Contractor location" = [Your Location]
