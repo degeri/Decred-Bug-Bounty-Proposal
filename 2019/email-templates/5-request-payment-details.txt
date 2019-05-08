@@ -6,7 +6,30 @@ You are eligible for a payment of <XXX> USD in DCR.
 
 If you would like to be listed on our hall of fame, please provide us with the name you would like to appear and you may choose to provide one link to your social media, github or blog.  
 
-Please respond to this email with the DCR address you wish to receive the payment. If you need support creating a Decred wallet or address, you can visit our documentation website or you can can ask for help on our support channels.
+You will received an email with the subject "Welcome to the Contractor Management System" follow through on the link and register an account within 24 hours of receiving the email. 
+
+Then click on "submit invoice" 
+
+Month should be <MONTH> and Year should be <YEAR>. 
+
+"Contractor name"=[Full Name]
+"Contractor location" = [Your Location]
+"Contractor contact" = [Your email]
+"Contractor rate (USD)" = 5
+Payment address = [Your Decred Address]
+
+In the sheet 
+Type=2
+Domain=Development
+subdomain=Bug Bounty
+Description=[Link the github issue]
+Proposal Token=d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
+Expense (USD)=<XXX>
+
+Please note this website is for production use. Do not attempt test/find vulnerabilities or try to submit false/test invoices. Any such action might lead to suspension of your account.
+
+
+If you need support creating a Decred wallet or address, you can visit our documentation website or you can can ask for help on our support channels.
 
 https://docs.decred.org/wallets/decrediton/decrediton-setup/
 https://decred.org/community/
