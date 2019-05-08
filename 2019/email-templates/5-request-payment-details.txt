@@ -26,6 +26,11 @@ Description=[Link the github issue]
 Proposal Token=d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
 Expense (USD)=<XXX>
 
+Once its filled hit "Submit"
+
+You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted.
+
+
 Please note this website is for production use. Do not attempt test/find vulnerabilities or try to submit false/test invoices. Any such action might lead to suspension of your account.
 
 
