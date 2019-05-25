@@ -1,6 +1,6 @@
-Payment has been sent to the address you provided.
+Payment has been sent to the address submitted via the CMS system.
 
-The transaction can be seen on the block explorer here: <https://explorer.dcrdata.org/tx/InsertTxIdHere>
+You can check your balance using the search function on the block explorer here: https://explorer.dcrdata.org
 
 Thanks again for your submission to the Decred bug bounty program.
 
