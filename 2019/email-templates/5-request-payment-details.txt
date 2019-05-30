@@ -1,5 +1,5 @@
 First time user:
-    We are happy to inform you that a fix has been produced for the issue reported and you are now eligible for payment.
+    We are happy to inform you are now eligible for payment.
 
 
 {LOOP AS NEEDED}
@@ -52,7 +52,7 @@ First time user:
 
 Registered user:
 
-    We are happy to inform you that a fix has been produced for the issue reported and you are now eligible for payment.
+    We are happy to inform you are now eligible for payment.
 
 {LOOP AS NEEDED}
     You are eligible for a payment of <XXX> USD in DCR for issue {Link to issue}.
