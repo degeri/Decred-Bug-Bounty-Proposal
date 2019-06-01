@@ -14,7 +14,7 @@ First time user:
 
     You will receive an email with the subject "Welcome to the Contractor Management System" follow through on the link and register an account within 24 hours of receiving the email. 
 
-    Then click on "submit invoice" 
+    Then click on "Submit Invoice" 
 
     Month should be <MONTH> and Year should be <YEAR>. 
 
