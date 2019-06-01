@@ -93,7 +93,7 @@ Registered user:
     You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted. Your payment will be made by the end of the current month.
 
 
-    Please note this website is for production use. Do not attempt test/find vulnerabilities or try to submit false/test invoices. Any such action will lead to suspension of your account.
+    Please note this website is for production use. Do not attempt to test/find vulnerabilities or try to submit false/test invoices. Any such action will lead to suspension of your account.
 
 
     If you need support creating a Decred wallet or address, you can visit our documentation website or you can can ask for help on our support channels.
