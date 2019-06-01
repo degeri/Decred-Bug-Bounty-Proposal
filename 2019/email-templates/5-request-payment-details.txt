@@ -65,7 +65,7 @@ Registered user:
 
     You are already registered in the Decred CMS system. Login to your account. 
 
-    Then click on "submit invoice" 
+    Then click on "Submit Invoice" 
 
     Month should be <MONTH> and Year should be <YEAR>. 
 
