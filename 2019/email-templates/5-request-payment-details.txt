@@ -10,7 +10,7 @@ First time user:
 
     {if non pgp: Please note payment was reduced by X USD due to your email not being encrypted with PGP]
 
-    If you would like to be listed on our hall of fame, please provide us with the name you would like to appear and you may choose to provide one link to your social media, github or blog.  
+    If you would like to be listed on our hall of fame, please provide us with the name you would like to appear and you may choose to provide one link to your social media, GitHub or blog.  
 
     You will received an email with the subject "Welcome to the Contractor Management System" follow through on the link and register an account within 24 hours of receiving the email. 
 
