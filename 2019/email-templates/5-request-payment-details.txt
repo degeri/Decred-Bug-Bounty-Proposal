@@ -1,3 +1,5 @@
+Subject: Bug Bounty Claim instructions for [email] - [(PREVMONTH)MM]/[(PREVMONTHYEAR)YYYY]
+
 First time user:
     We are happy to inform you are now eligible for payment.
 
@@ -37,8 +39,7 @@ First time user:
 
     Once its filled hit "Submit"
 
-    You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted.
-
+    You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted.Your payment will be made by the end of the current month.
 
     Please note this website is for production use. Do not attempt test/find vulnerabilities or try to submit false/test invoices. Any such action might lead to suspension of your account.
 
@@ -89,7 +90,7 @@ Registered user:
 
     Once its filled hit "Submit"
 
-    You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted.
+    You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted. Your payment will be made by the end of the current month.
 
 
     Please note this website is for production use. Do not attempt test/find vulnerabilities or try to submit false/test invoices. Any such action will lead to suspension of your account.
