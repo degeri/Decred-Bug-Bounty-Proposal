@@ -83,7 +83,7 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 #### Breakdown of spendings for the past 10 months (May and June 2020 not included):
 
-**Website edits: **  590 
+**Website edits:**  590 
 
 **Bookkeeping, Triage and mail correspondence:**  1190
 
