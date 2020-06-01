@@ -16,17 +16,15 @@ We will have a self-hosted program and use a @decred.org email for getting bug b
 
 Indicative payout amounts:
 
-Amounts have been bumped up to increase interests and participation.
+Note: up to 300 USD
 
-Note: up to 500 USD
+Low: up to 1,000 USD
 
-Low: up to 1,500 USD
+Medium: up to 3,000 USD
 
-Medium: up to 5,000 USD
+High: up to 10,000 USD
 
-High: up to 15,000 USD
-
-Critical: up to 30,000 USD
+Critical: up to 25,000 USD
 
 
 
