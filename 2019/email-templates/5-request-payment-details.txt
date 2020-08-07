@@ -31,7 +31,7 @@ First time user:
     Domain=Development
     subdomain=Bug Bounty
     Description=[Link the github issue]
-    Proposal Token=2170df6af2cda7d048039d893cc8438b001577989441a33709820f56df7075c0
+    Proposal Token=[SELECT Decred Bug Bounty Program: Phase 3]
     Expense (USD)=<XXX>
 {End LOOP}
 
