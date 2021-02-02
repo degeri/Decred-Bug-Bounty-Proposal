@@ -27,7 +27,7 @@ First time user:
      In the sheet:
 
 {LOOP AS NEEDED}
-    Type=2
+    Type=Expense
     Domain=Development
     subdomain=Bug Bounty
     Description=[Link the github issue]
@@ -90,7 +90,7 @@ Registered user:
 
     Once its filled hit "Submit"
 
-    You can then head over to https://cms.decred.org/user/invoices and ensure that your invoice has been submitted. Your payment will be made by the end of the current month.
+    You can then head over to https://cms.decred.org/invoices/me and ensure that your invoice has been submitted. Your payment will be made by the end of the current month.
 
 
     Please note this website is for production use. Do not attempt to test/find vulnerabilities or try to submit false/test invoices. Any such action will lead to suspension of your account.
