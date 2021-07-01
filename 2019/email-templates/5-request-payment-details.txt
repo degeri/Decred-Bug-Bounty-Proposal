@@ -13,6 +13,8 @@ We are happy to inform you are now eligible for payment.
 
 Please send us a Decred address to send the payout. 
 
+Note:Please be very careful and double check that you have access to an address before sending. See https://docs.decred.org/wallets/decrediton/using-decrediton/#validate-addresses
+
 If you need support creating a Decred wallet or address, you can visit our documentation website or you can can ask for help on our support channels.
 
 https://docs.decred.org/wallets/decrediton/decrediton-setup/
